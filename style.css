@@ -1,0 +1,39 @@
+.ring{
+    position: relative;
+    z-index: 2;
+    top: -65px;
+}
+.boy{
+    position: relative;
+    
+    z-index: 3;
+}
+.water{
+    position: relative;
+    top: -145px;
+    z-index: 1;
+}
+table{
+    border: 1px solid;
+    padding: 0;
+    border-collapse: collapse;
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    background-color: blanchedalmond;
+}
+table .cell{
+    border: 1px solid;
+    padding: 7px;
+}
+.youtube{
+    
+    border: 2px solid red;
+    height: 300px;
+    width: 400px;
+}
+iframe{
+    height: 300px;
+    width: 400px;
+    
+}
